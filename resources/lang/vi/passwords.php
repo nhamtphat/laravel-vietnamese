@@ -14,10 +14,10 @@ return [
     |
     */
 
-    'reset' => 'Mật khẩu đã được đặt lại thành công!',
-    'sent' => 'Hãy ấn vào đường dẫn trong email để đặt lại mật khẩu!',
+    'reset'     => 'Mật khẩu đã được đặt lại thành công!',
+    'sent'      => 'Hãy ấn vào đường dẫn trong email để đặt lại mật khẩu!',
     'throttled' => 'Xin thử lại sau 5 phút.',
-    'token' => 'Mã xác nhận không đúng.',
-    'user' => "Không tìm thấy tài khoản khớp với email này.",
+    'token'     => 'Mã xác nhận không đúng.',
+    'user'      => 'Không tìm thấy tài khoản khớp với email này.',
 
 ];
