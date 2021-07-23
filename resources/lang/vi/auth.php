@@ -14,8 +14,8 @@ return [
     |
     */
 
-    'failed' => 'Sai tài khoản và mật khẩu, vui lòng thử lại.',
+    'failed'   => 'Sai tài khoản và mật khẩu, vui lòng thử lại.',
     'password' => 'Mật khẩu nhập vào không chính xác.',
-    'throttle' => 'Bạn đã thử quá nhiều lần. Thử lại sau :seconds giây.'
+    'throttle' => 'Bạn đã thử quá nhiều lần. Thử lại sau :seconds giây.',
 
 ];
